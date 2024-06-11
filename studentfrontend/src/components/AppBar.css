@@ -1,0 +1,18 @@
+.appBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    padding: 0 20px;
+    background-color: #1d3d8e;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    height: 50px;
+}
+
+.appBarTitle{
+    font-size: 1.5rem;
+    margin-left: 50%;
+}
